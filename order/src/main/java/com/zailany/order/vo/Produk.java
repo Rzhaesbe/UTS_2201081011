@@ -8,7 +8,7 @@ package com.zailany.order.vo;
 
 /**
  *
- * @author HP14s FQ2002AU
+ * @author Rzhaesbe
  */
 
 public class Produk {

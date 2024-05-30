@@ -14,7 +14,7 @@
 
     /**
      *
-     * @author HP14s FQ2002AU
+     * @author Rzhaesbe
      */
 @Entity
 @Table(name = "t_order")

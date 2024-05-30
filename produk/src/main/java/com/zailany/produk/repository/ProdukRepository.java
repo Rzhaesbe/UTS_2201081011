@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author HP14s FQ2002AU
+ * @author Rzhaesbe
  */
 @Repository
 public interface ProdukRepository extends JpaRepository<Produk, Long> {

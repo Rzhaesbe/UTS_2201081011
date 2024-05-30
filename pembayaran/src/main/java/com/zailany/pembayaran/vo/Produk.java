@@ -6,7 +6,7 @@ package com.zailany.pembayaran.vo;
 
 /**
  *
- * @author andreferdinan
+ * @author Rzhaesbe
  */
 public class Produk {
     private Long id_produk;

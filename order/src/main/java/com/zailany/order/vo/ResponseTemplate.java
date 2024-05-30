@@ -11,7 +11,7 @@ import com.zailany.order.entity.Order;
 
 /**
  *
- * @author HP14s FQ2002AU
+ * @author Rzhaesbe
  */
 public class ResponseTemplate {
     Produk produk;

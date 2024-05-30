@@ -6,7 +6,7 @@ package com.zailany.pembayaran.vo;
 
 /**
  *
- * @author andreferdinan
+ * @author Rzhaesbe
  */
 public class Order {
     private Long id;

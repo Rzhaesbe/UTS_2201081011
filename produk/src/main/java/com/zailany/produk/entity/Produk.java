@@ -12,7 +12,7 @@ import jakarta.persistence.Table;
 
 /**
  *
- * @author HP14s FQ2002AU
+ * @author Rzhaesbe
  */
 @Entity
 @Table

@@ -12,7 +12,7 @@ import jakarta.persistence.Table;
 
 /**
  *
- * @author andreferdinan
+ * @author Rzhaesbe
  */
 @Entity
 @Table(name="dbpembayaran")

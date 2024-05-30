@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  *
- * @author HP14s FQ2002AU
+ * @author Rzhaesbe
  */
 @RestController
 @RequestMapping("api/v1/produk")

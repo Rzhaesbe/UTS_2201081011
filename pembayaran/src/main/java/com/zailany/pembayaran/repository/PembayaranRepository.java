@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author andreferdinan
+ * @author Rzhaesbe
  */
 @Repository
 public interface PembayaranRepository extends JpaRepository<Pembayaran, Long> {

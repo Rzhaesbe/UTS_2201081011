@@ -16,7 +16,7 @@ import org.springframework.http.ResponseEntity;
 
 /**
  *
- * @author andreferdinan
+ * @author Rzhaesbe
  */
 @RestController
 @RequestMapping("api/v1/pembayaran")

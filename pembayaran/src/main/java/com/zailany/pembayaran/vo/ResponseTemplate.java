@@ -7,7 +7,7 @@ import com.zailany.pembayaran.entity.Pembayaran;
 
 /**
  *
- * @author andreferdinan
+ * @author Rzhaesbe
  */
 public class ResponseTemplate {
     Pembayaran pembayaran;
